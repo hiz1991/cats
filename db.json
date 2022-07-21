@@ -1,0 +1,46 @@
+{
+  "cats": [
+    {
+      "id": "yRTKiDy0-s_9zrh0zAMaK",
+      "name": "Persian Cat",
+      "breed": "Persian",
+      "city": "Berlin",
+      "createdAt": 1650802513913
+    },
+    {
+      "id": "Ia4t6uQ-op5aq4Hbt14qd",
+      "name": "British Cat",
+      "city": "London",
+      "breed": "British",
+      "createdAt": 1650804005530
+    },
+    {
+      "id": "uzj6QITRsvnMMmHAlv0nJ",
+      "name": "Bengal Cat",
+      "city": "Paris",
+      "breed": "Bengal",
+      "createdAt": 1650804402054
+    },
+    {
+      "id": "yRTKiDy0-s_9zrh0zAMaK1",
+      "name": "Another Persian Cat",
+      "city": "Berlin",
+      "breed": "Persian",
+      "createdAt": 1650804402055
+    },
+    {
+      "id": "Ia4t6uQ-op5aq4Hbt14qd1",
+      "name": "Another British Cat",
+      "city": "London",
+      "breed": "British",
+      "createdAt": 1650804402056
+    },
+    {
+      "id": "uzj6QITRsvnMMmHAlv0nJ1",
+      "name": "Another Bengal Cat",
+      "city": "Paris",
+      "breed": "Bengal",
+      "createdAt": 1650804402057
+    }
+  ]
+}
